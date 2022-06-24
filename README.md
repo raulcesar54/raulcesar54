@@ -7,9 +7,8 @@
 
 <br />
 Ola me chamo Raul Cesar, sou dev apaixonado por React, React Native e Node Js 😍😍😍😍
-
-Estou aberto a novas atividades, e projetos, me mando uma
-mensagem no linkedin e vamos codar juntos!!! 🎉🎉
+ 
+Estou aberto para novos desafios!
 
 
   
